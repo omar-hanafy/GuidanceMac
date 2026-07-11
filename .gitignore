@@ -11,6 +11,9 @@
 .TemporaryItems
 .VolumeIcon.icns
 
+# IDE
+/.idea
+
 # Xcode - per-developer state (never shared)
 xcuserdata/
 *.xcuserstate
